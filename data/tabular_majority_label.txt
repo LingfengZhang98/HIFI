@@ -1,0 +1,2 @@
+census	ufrgs	compas	diabetes	default
+0(75.1\%)	0(53.2\%)	1(54.9\%)	1(65.1\%)	0(77.9\%)

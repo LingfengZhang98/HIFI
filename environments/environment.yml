@@ -1,0 +1,20 @@
+name: hifi
+channels:
+  - defaults
+dependencies:
+  - python==3.9.18
+  - numpy==1.23.5
+  - pandas
+  - scipy
+  - joblib
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - tensorflow
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchaudio
+  - torchvision
+  - pip
+  - pip:
+    - -r file:pip_requirements.txt
