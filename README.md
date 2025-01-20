@@ -49,7 +49,7 @@ The artifact contains the following folders:
 You can first train the subject models by running:
 
 ```sh
-cd {Directory you saved our artifact}/XAI4Fairness
+cd {Directory you saved our artifact}/
 python bias_mitigation_methods/default.py
 python bias_mitigation_methods/rew.py
 python bias_mitigation_methods/dir.py
